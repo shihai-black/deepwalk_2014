@@ -1,0 +1,8 @@
+[2021-06-04 14:05:34]: metrics classify.py[line:62] INFO  micro: 0.8333333333333334
+
+[2021-06-04 14:05:34]: metrics classify.py[line:62] INFO  macro: 0.5333333333333333
+
+[2021-06-04 14:05:34]: metrics classify.py[line:62] INFO  samples: 0.8333333333333333
+
+[2021-06-04 14:05:34]: metrics classify.py[line:62] INFO  weighted: 0.7777777777777778
+
